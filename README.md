@@ -11,7 +11,7 @@ make
 build-essential
 Install these packages with:
 sudo apt-get update -y && sudo apt-get install clang make build-essential -y
-At you BASH prompt, type this: (enter the source (src) directory)
+At your BASH prompt, type this: (enter the source (src) directory)
 ./configure
 make
 ./main
